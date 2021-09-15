@@ -1,8 +1,8 @@
 👋 Hi, I’m Male
 
-- a self-taught developer
-- a data engineer
-- interested in software development (still a newbie in this field)
+- A self-taught developer
+- Now, a data engineer
+- Interested in software development (still a newbie in this field)
 
 📫 How to reach me melodymale@gmail.com
 
