@@ -1,7 +1,7 @@
 👋 Hi, I’m Male
 
 - A self-taught developer
-- Now, a data engineer
+- Now, a backend developer
 - Interested in software development (still a newbie in this field)
 
 📫 How to reach me melodymale@gmail.com
