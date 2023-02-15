@@ -1,4 +1,4 @@
-👋 Hi, I’m Male
+👋 Hi, I’m Male (Nickname).
 
 - A self-taught developer
 - Now, a backend developer
