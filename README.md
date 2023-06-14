@@ -1,10 +1,6 @@
-👋 Hi, I’m Male (Nickname).
+👋 Hi, It's Mel.
 
-- A self-taught developer
-- Now, a backend developer
-- Interested in software development
-
-📫 How to reach me chayutpong.pro@gmail.com
+📫 reach me at chayutpong.pro@gmail.com
 
 <!---
 MelodyMale/MelodyMale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
